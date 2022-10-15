@@ -269,6 +269,13 @@ For the NanoVNA, only versions 0.7.1 and higher of the firmware are supported.
 See the papers on Network Analyzer Error Models and Calibration Methods
 by Doug Rytting.
 
-![](cal.png)
+![](cal.png)![WhatsApp Image 2022-10-15 at 19 34 47(1)](https://user-images.githubusercontent.com/82896678/195997808-27b114a9-02c4-45e5-96a4-22cf585bbc5a.jpeg)
+![WhatsApp Image 2022-10-15 at 19 34 47](https://user-images.githubusercontent.com/82896678/195997809-a2489205-8c95-41f1-af5e-14e8499905d0.jpeg)
+
+
+![WhatsApp Image 2022-10-15 at 19 34 47](https://user-images.githubusercontent.com/82896678/195997815-7e37867f-7242-4474-9a33-fa9b96157a2c.jpeg)
+![WhatsApp Image 2022-10-15 at 19 34 47(1)](https://user-images.githubusercontent.com/82896678/195997816-a86ded3a-dbd1-4ad9-a718-e1f5a270caf1.jpeg)
+
+
 
 
